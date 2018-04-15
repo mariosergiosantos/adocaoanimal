@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=7.1.1",
         "arcanedev/log-viewer": "^4.5",
         "barryvdh/laravel-dompdf": "^0.8.2",
         "fideloper/proxy": "~4.0",
@@ -15,6 +15,8 @@
         "laravel/socialite": "^3.0",
         "laravel/tinker": "~1.0",
         "laravellegends/pt-br-validator": "5.1.*",
+        "prettus/l5-repository": "^2.6",
+        "rachidlaasri/laravel-installer": "^4.0",
         "rap2hpoutre/laravel-log-viewer": "^0.14.3"
     },
     "require-dev": {
